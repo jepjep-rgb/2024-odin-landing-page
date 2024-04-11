@@ -2,6 +2,8 @@
 
 * {
     font-family: Roboto;
+    padding: 0;
+    margin: 0;
 }
 
 .header, .hero-box, .footer {
