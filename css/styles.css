@@ -29,6 +29,22 @@
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.hero-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+  
+.hero-left {
+    min-width: 500px;
+}
+  
+.hero-box img {
+    min-width: 500px;
+    flex-shrink: 0;
+}
+
 .hero-left h1 {
     font-size: 48px;
     font-weight: 900;
@@ -42,6 +58,9 @@
 
 .cto-signup, .cto-signup-2 {
     background-color: #3882F6;
+    border-radius: 10%;
+    width: 100px;
+    height: 30px;
 }
 
 .content-box h2 {
