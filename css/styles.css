@@ -23,3 +23,23 @@
     color: #E5E7EB;
 }
 
+.cto-signup, .cto-signup-2 {
+    background-color: #3882F6;
+}
+
+.content-box h2 {
+    font-size: 36px;
+    font-size: 900;
+    color: #1F2937;
+}
+
+.quote-box {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+}
