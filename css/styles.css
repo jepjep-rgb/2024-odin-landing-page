@@ -17,6 +17,11 @@
     padding: 10px 150px;
 }
 
+.header a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
 .header ul{
     list-style-type: none;
     display: flex;
@@ -27,7 +32,6 @@
 
 .header h2 {
     font-size: 24px;
-    color: #F9FAF8;
 }
 
 .hero-box {
