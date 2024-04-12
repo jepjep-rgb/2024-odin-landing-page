@@ -46,7 +46,9 @@
 }
   
 .hero-box img {
-    min-width: 500px;
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
     flex-shrink: 0;
 }
 
