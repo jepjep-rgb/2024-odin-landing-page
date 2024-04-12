@@ -117,3 +117,23 @@
     color: #1F2937;
     margin-bottom: 32px;
 }
+
+.cto-box {
+    margin: 100px 150px;
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 100px;
+}
+
+.cto-head {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.cto-signup-2 {
+    border: 3px solid #E5E7EB;
+    color: #E5E7EB;
+    font-weight: 500;
+}
