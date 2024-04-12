@@ -137,3 +137,14 @@
     color: #E5E7EB;
     font-weight: 500;
 }
+
+.footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F9FAF8;
+}
